@@ -1,0 +1,13 @@
+{
+  
+  "dependencies": {
+    "axios": "^0.20.0",
+    "bootstrap": "^4.5.2",
+    "gatsby": "^2.24.62",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-markdown": "^4.3.1",
+    "reactstrap": "^8.5.1"
+  }
+  
+}
