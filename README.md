@@ -2,7 +2,7 @@
 
 Gatsby Docker Container for production deployment. Static website using Gatsby with Nginx to serve static files
 
-Run this image behind Traefik proxy. (Traefik runs on another container where as Gatsby runs on different container with Nginx)
+Run this image behind Traefik proxy. (Traefik acts as a reverse proxy for micro-services in swarm mode)
 
 ## Docker Compose
 
