@@ -10,7 +10,7 @@ RUN npm install
 
 # Copy other project files and build
 COPY . ./
-RUN npm run build
+RUN npm build
 
 # Set nginx image
 FROM nginx:alpine
